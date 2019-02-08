@@ -13,9 +13,9 @@ Simply import the script.
 
 ## CDN
 ### Non-Minified
-https://cdn.rawgit.com/NawaMan/RiotAutoMount/master/riotautomount.js
+https://cdn.staticaly.com/gh/NawaMan/RiotAutoMount/master/riot-automount.js
 ### Minified
-https://cdn.rawgit.com/NawaMan/RiotAutoMount/master/riotautomount.min.js
+https://cdn.staticaly.com/gh/NawaMan/RiotAutoMount/master/riot-automount.min.js
 
 ## Dependency
 This library only require `riot`.
