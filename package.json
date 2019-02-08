@@ -1,0 +1,28 @@
+{
+    "name": "riotautomount",
+    "version": "0.1.0",
+    "description": "Mount riot elements automatically",
+    "main": "riot-automount.js",
+    "scripts": {
+        "minify": "minify riot-automount.js > riot-automount.min.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/NawaMan/RiotAutoMount.git"
+    },
+    "keywords": [
+        "Riot",
+        "AutoMount",
+        "Library"
+    ],
+    "author": "Nawapunth Manusitthipol <nawa@nawaman.net> (https://github.com/NawaMan/RiotAutoMount)",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/NawaMan/RiotAutoMount/issues"
+    },
+    "homepage": "https://github.com/NawaMan/RiotAutoMount#readme",
+    "dependencies": {
+        "riot": "^3.7.3"
+    }
+}
