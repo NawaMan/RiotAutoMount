@@ -1,7 +1,4 @@
 (function() {
-    /** 
-     * This code is to automatically mount riot element.
-     */
     document.addEventListener("DOMContentLoaded", function() {
         document.body.addEventListener('DOMNodeInserted',function(e) {
             var node = e.target
